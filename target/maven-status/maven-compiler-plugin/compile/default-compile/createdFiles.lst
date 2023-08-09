@@ -1,0 +1,10 @@
+br\edu\unieduk\tccsrvcoursecore\domain\CourseItem.class
+br\edu\unieduk\tccsrvcoursecore\usecase\FindCourseUseCase.class
+br\edu\unieduk\tccsrvcoursecore\usecase\impl\FindCourseUseCaseImpl.class
+br\edu\unieduk\tccsrvcoursecore\Application.class
+br\edu\unieduk\tccsrvcoursecore\endpoint\SupplyController.class
+br\edu\unieduk\tccsrvcoursecore\domain\Course.class
+br\edu\unieduk\tccsrvcoursecore\usecase\impl\FindCourseListUseCaseImpl.class
+br\edu\unieduk\tccsrvcoursecore\domain\Course$CourseBuilder.class
+br\edu\unieduk\tccsrvcoursecore\external\repository\CourseRepository.class
+br\edu\unieduk\tccsrvcoursecore\usecase\FindCourseListUseCase.class

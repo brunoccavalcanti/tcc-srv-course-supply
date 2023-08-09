@@ -1,0 +1,9 @@
+server:
+  servlet:
+    context-path: "/course-supply"
+
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://root:YUTfG2TFtZNWWJVV@cluster0.ibqze2r.mongodb.net/?retryWrites=true&w=majority
+      database: tcc-course-db
