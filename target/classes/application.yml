@@ -7,3 +7,6 @@ spring:
     mongodb:
       uri: mongodb+srv://root:YUTfG2TFtZNWWJVV@cluster0.ibqze2r.mongodb.net/?retryWrites=true&w=majority
       database: tcc-course-db
+  mvc:
+    pathmatch:
+      matching-strategy: ant_path_matcher
