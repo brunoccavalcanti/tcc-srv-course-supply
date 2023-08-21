@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: br.edu.unieduk.tccsrvcoursecore.ApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.97 s - in br.edu.unieduk.tccsrvcoursecore.ApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.801 s - in br.edu.unieduk.tccsrvcoursecore.ApplicationTests

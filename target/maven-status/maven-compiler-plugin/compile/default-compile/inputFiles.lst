@@ -4,6 +4,8 @@ D:\tcc\tcc-srv-course-supply\src\main\java\br\edu\unieduk\tccsrvcoursecore\Appli
 D:\tcc\tcc-srv-course-supply\src\main\java\br\edu\unieduk\tccsrvcoursecore\endpoint\SupplyController.java
 D:\tcc\tcc-srv-course-supply\src\main\java\br\edu\unieduk\tccsrvcoursecore\domain\Course.java
 D:\tcc\tcc-srv-course-supply\src\main\java\br\edu\unieduk\tccsrvcoursecore\usecase\impl\FindCourseUseCaseImpl.java
+D:\tcc\tcc-srv-course-supply\src\main\java\br\edu\unieduk\tccsrvcoursecore\config\CorsConfiguration.java
 D:\tcc\tcc-srv-course-supply\src\main\java\br\edu\unieduk\tccsrvcoursecore\usecase\impl\FindCourseListUseCaseImpl.java
+D:\tcc\tcc-srv-course-supply\src\main\java\br\edu\unieduk\tccsrvcoursecore\swagger\SwaggerConfig.java
 D:\tcc\tcc-srv-course-supply\src\main\java\br\edu\unieduk\tccsrvcoursecore\external\repository\CourseRepository.java
 D:\tcc\tcc-srv-course-supply\src\main\java\br\edu\unieduk\tccsrvcoursecore\usecase\FindCourseListUseCase.java
