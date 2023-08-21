@@ -13,6 +13,7 @@ import java.util.List;
 @RequestMapping(value = "/find-course", produces = MediaType.APPLICATION_JSON_VALUE)
 @RestController
 @RequiredArgsConstructor
+@CrossOrigin("*")
 public class SupplyController {
 
     private final FindCourseUseCase findCourseUseCase;
