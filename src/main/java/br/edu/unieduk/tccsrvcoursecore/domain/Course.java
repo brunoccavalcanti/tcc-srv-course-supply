@@ -16,5 +16,7 @@ public class Course {
     private String qtdDislikes;
     private String urlImage;
     private String urlVideo;
+    private String alt;
+    private String subtittles;
 
 }
